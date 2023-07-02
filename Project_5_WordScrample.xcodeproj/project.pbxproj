@@ -14,6 +14,7 @@
 		8FEF57D92A507C4B003A0D8B /* Project_5_WordScrampleTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8FEF57D82A507C4B003A0D8B /* Project_5_WordScrampleTests.swift */; };
 		8FEF57E32A507C4C003A0D8B /* Project_5_WordScrampleUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8FEF57E22A507C4C003A0D8B /* Project_5_WordScrampleUITests.swift */; };
 		8FEF57E52A507C4C003A0D8B /* Project_5_WordScrampleUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8FEF57E42A507C4C003A0D8B /* Project_5_WordScrampleUITestsLaunchTests.swift */; };
+		8FEF57F22A50D6AB003A0D8B /* start.txt in Resources */ = {isa = PBXBuildFile; fileRef = 8FEF57F12A50D6AA003A0D8B /* start.txt */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -44,6 +45,7 @@
 		8FEF57DE2A507C4B003A0D8B /* Project_5_WordScrampleUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = Project_5_WordScrampleUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		8FEF57E22A507C4C003A0D8B /* Project_5_WordScrampleUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Project_5_WordScrampleUITests.swift; sourceTree = "<group>"; };
 		8FEF57E42A507C4C003A0D8B /* Project_5_WordScrampleUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Project_5_WordScrampleUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		8FEF57F12A50D6AA003A0D8B /* start.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = start.txt; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -97,6 +99,7 @@
 				8FEF57C72A507C44003A0D8B /* Project_5_WordScrampleApp.swift */,
 				8FEF57C92A507C44003A0D8B /* ContentView.swift */,
 				8FEF57CB2A507C4B003A0D8B /* Assets.xcassets */,
+				8FEF57F12A50D6AA003A0D8B /* start.txt */,
 				8FEF57CD2A507C4B003A0D8B /* Preview Content */,
 			);
 			path = Project_5_WordScrample;
@@ -232,6 +235,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				8FEF57CF2A507C4B003A0D8B /* Preview Assets.xcassets in Resources */,
+				8FEF57F22A50D6AB003A0D8B /* start.txt in Resources */,
 				8FEF57CC2A507C4B003A0D8B /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
